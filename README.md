@@ -1,6 +1,6 @@
 # quick_resources
 
-Resources to learn something quickly. I will start only with resources I know (and some of them I tried), but you are free to make a pull request.
+Resources to learn something quickly. I will start only with the resources I know (and some of them I tried), but you are free to make a pull request.
 
 Every resource listed here is intended for beginners and will be in English, if not stated otherwise.
 
