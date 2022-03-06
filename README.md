@@ -8,7 +8,7 @@ Every resource listed here is intended for beginners and will be in English, if 
 * https://learngitbranching.js.org/ - nice visuals, on-site practice
 
 # SQL
-* https://pgexercises.com/ - on-site practice, **ONLY QUERYING IS COVERED, TABLE, RELATIONS AND OPTIMIZATIONS ARE NOT**
+* https://pgexercises.com/ - on-site practice, **ONLY QUERYING IS COVERED, TABLE CREATION, RELATIONS AND OPTIMIZATIONS ARE NOT**
 
 # RUST
 * https://doc.rust-lang.org/rust-by-example/ - on-site practice (playing with the working code), dry, more concepts and better order compared to Rust Book
