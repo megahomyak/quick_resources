@@ -17,4 +17,4 @@ Every resource listed here is intended for beginners and will be in English, if 
 * https://www.youtube.com/playlist?list=PLlb7e2G7aSpTfhiECYNI2EZ1uAluUqE_e - Kladov's lessons, **IN RUSSIAN, VERY GOOD**
 
 # PYTHON
-* https://docs.python.org/3/tutorial/index.html
+* https://docs.python.org/3/tutorial/index.html - official Python docs, maybe too dry
