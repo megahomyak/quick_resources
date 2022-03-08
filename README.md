@@ -20,4 +20,4 @@ Every resource listed here is intended for beginners and will be in English, if 
 * https://docs.python.org/3/tutorial/index.html - official Python docs, maybe too dry
 
 # COMMUNICATION
-* https://t.me/it_chats - Telegram channel containing links to various IT chats (LOTS OF THEM), **IN RUSSIAN** (all chats are also Russian)
+* https://t.me/it_chats - Telegram channel containing links to various IT chats (LOTS OF THEM), **IN RUSSIAN** (all chats are also in Russian)
