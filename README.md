@@ -19,5 +19,8 @@ Every resource listed here is intended for beginners and will be in English, if 
 # PYTHON
 * https://docs.python.org/3/tutorial/index.html - official Python docs, maybe too dry
 
+# GOLANG (aka GO)
+* https://go.dev/tour - official **QUICK** go tour with interactive examples and **A FEW EXERCISES**. It is quick because GO is small by itself
+
 # COMMUNICATION
 * https://t.me/it_chats - Telegram channel containing links to various IT chats (LOTS OF THEM), **IN RUSSIAN** (all chats are also in Russian)
