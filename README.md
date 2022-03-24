@@ -18,6 +18,10 @@ Every resource listed here is intended for beginners and will be in English, if 
 
 # PYTHON
 * https://docs.python.org/3/tutorial/index.html - official Python docs, maybe too dry
+### Libraries for working with neural networks
+* https://scikit-learn.org/stable/tutorial/basic/tutorial.html - official introduction to machine learning with scikit-learn.
+* https://www.tutorialspoint.com/matplotlib/matplotlib_quick_guide.htm - quick guide to matplotlib. Used to visualize data in the form of graphs.
+* https://www.youtube.com/watch?v=IC0_FRiX-sw - good introduction in PyTorch.
 
 # GOLANG (aka GO)
 * https://go.dev/tour - official **QUICK** go tour with interactive examples and **A FEW EXERCISES**. It is quick because GO is small by itself
