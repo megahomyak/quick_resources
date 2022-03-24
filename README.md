@@ -3,7 +3,7 @@ Resources to learn something quickly. I will start only with the resources I kno
 
 Every resource listed here is intended for beginners and will be in English, if not stated otherwise.
 
-Every resource listed here **should be** easy to understand.
+Every resource listed here **should be** free and easy to understand.
 
 It is **desirable** that each resource here has an exercise right on the resource page.
 
