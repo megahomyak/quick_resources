@@ -20,6 +20,8 @@ It is **highly likely** that every resource here has practice right next to theo
     + https://docs.python.org/3/tutorial/index.html - official Python docs, may be too dry
 * [Golang (aka Go)](https://go.dev/)
     + https://go.dev/tour - official **QUICK** go tour with interactive examples and a few exercises. It is quick because GO is small by itself
+* [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
+    + https://learn.javascript.ru/ - very good tutorial, but **IN RUSSIAN AND ONLY FOR BEGINNERS!** Too much water in the beginning. On-site excercises
 
 ## Related links
 ### Communication
