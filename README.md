@@ -5,7 +5,7 @@ Every resource listed here is intended for beginners and will be in English, if 
 
 Every resource listed here **should be** free and easy to understand.
 
-It is **desirable** that each resource here has an exercise right on the resource page.
+It is **highly likely** that every resource here has practice right next to theory. When adding new resources, prefer resources with practice.
 
 * [Git](https://git-scm.com/)
     + https://learngitbranching.js.org/ - nice visuals, on-site practice
