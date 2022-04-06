@@ -22,7 +22,19 @@ It is **highly likely** that every resource here has practice right next to theo
     + https://go.dev/tour - official **QUICK** go tour with interactive examples and a few exercises. It is quick because GO is small by itself
 * [JavaScript](https://en.wikipedia.org/wiki/JavaScript)
     + https://javascript.info/ - very good tutorial, but **ONLY FOR BEGINNERS!** Too much water in the beginning. On-site excercises. Russian version exists: https://learn.javascript.ru/
+* [General ML](https://en.wikipedia.org/wiki/Machine_learning) (**YOU NEED MATH FOR THAT!** Linear models and basics of statictics, to be exact)
+    + https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/ - very detailed blog about general computer vision and how machine learning models work
+    + https://t.me/mishin_learning - useful telegram channel about ML things, **in Russian**
+    + https://lena-voita.github.io/nlp_course/word_embeddings.html#research_thinking - best transformer models manual
+    + https://horace.io/brrr_intro.html - how GPU and block-distributed computation works
+    + https://arxiv.org/abs/1706.03762 - a key article explaining how the attention algorithm works
+    + https://medium.com/towards-data-science - articles and tutorials from data scientists
+    + https://machinelearningmastery.com/ - simply about complicated things (about ML)
 
 ## Related links
 ### Communication
 * https://t.me/it_chats - Telegram channel containing links to various IT chats (LOTS OF THEM), **IN RUSSIAN** (all chats are also in Russian)
+
+## Other resource compilations
+* [MLOps](https://en.wikipedia.org/wiki/MLOps)
+    + https://github.com/visenger/awesome-mlops - a curated list of references for MLOps
